@@ -29,6 +29,11 @@ The Following Project will be completed in accordance to Agile Manifesto and Pri
 
 This project aims to compile past data and pinpoints potential trends, issues, discrepancies of Young Immigrant Workforce. 
 
+Rough Explorative Ideas:
+
+Is there a corrletation between Immigrant Entrepreneurs and International Students? 
+There are few intern positions this year offering sponsorship, how will this affect the economic contributions by these groups? 
+
 ## Project Outline 
 
 1. Collect Data from Various sources (Described Below) 
