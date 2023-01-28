@@ -1,4 +1,4 @@
-# Young-Immigrant-Work-Report
+
 
 
 The Following Project will be completed in accordance to Agile Manifesto and Principles, albeit personal. 
@@ -53,8 +53,14 @@ This project aims to compile past data and pinpoints potential trends, issues, d
 
 On International Students Studying in the U.S
 
-3.  Institute of International Education -> Open Doors report
-4. U.S. Department of Homeland Security -> Student and Exchange Visitor Program 
+3.  Institute of International Education -> Open Doors report:    https://opendoorsdata.org/data/international-students/ 
+4. U.S. Department of Homeland Security -> Student and Exchange Visitor Program: 
+
+On Immigrant Entrepreneurship 
+
+5. National Foundation for American Policy 
+6. Ewing Marion Kauffman Foundation
+7. New American Economy
 
 
 ## Data Integrity Validation Principles 
