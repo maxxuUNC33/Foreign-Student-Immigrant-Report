@@ -51,6 +51,11 @@ This project aims to compile past data and pinpoints potential trends, issues, d
 1. Official Government Agencies:   US. Bureau of Labor Statistics,   U.S. Census Bureau 
 2. Non-profit think tanks: Migration Policy Institute, Center for Migration Studies, and American Immigration Council 
 
+On International Students Studying in the U.S
+
+3.  Institute of International Education -> Open Doors report
+4. U.S. Department of Homeland Security -> Student and Exchange Visitor Program 
+
 
 ## Data Integrity Validation Principles 
 
