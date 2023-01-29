@@ -65,7 +65,7 @@ On Immigrant Entrepreneurship
 
 5. National Foundation for American Policy 
 6. Ewing Marion Kauffman Foundation
-7. New American Economy
+7. New American Economy   https://map.americanimmigrationcouncil.org/methodology/
 
 
 ## Data Integrity Validation Principles 
